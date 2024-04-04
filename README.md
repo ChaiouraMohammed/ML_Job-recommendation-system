@@ -28,6 +28,7 @@ Columns :
 
 ![image](https://github.com/ChaiouraMohammed/ML_Job-recommendation-system/assets/91562298/f7dd123a-2872-464e-b6e3-483edf004afe)
 
+link : https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
 ## Libraries 
 ```
 import numpy as np
